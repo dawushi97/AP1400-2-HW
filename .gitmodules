@@ -1,0 +1,18 @@
+[submodule "AP1400-2-HW1"]
+	path = AP1400-2-HW1
+	url = https://github.com/dawushi97/AP1400-2-HW1.git
+[submodule "AP1400-2-HW2"]
+	path = AP1400-2-HW2
+	url = https://github.com/dawushi97/AP1400-2-HW2.git
+[submodule "AP1400-2-HW3"]
+	path = AP1400-2-HW3
+	url = https://github.com/dawushi97/AP1400-2-HW3.git
+[submodule "AP1400-2-HW4"]
+	path = AP1400-2-HW4
+	url = https://github.com/dawushi97/AP1400-2-HW4.git
+[submodule "AP1400-2-HW5"]
+	path = AP1400-2-HW5
+	url = https://github.com/dawushi97/AP1400-2-HW5.git
+[submodule "AP1400-2-HW6"]
+	path = AP1400-2-HW6
+	url = https://github.com/dawushi97/AP1400-2-HW6.git
